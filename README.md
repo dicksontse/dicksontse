@@ -1,4 +1,4 @@
-dicksontse
+Dickson Tse
 ==========
 
 Personal site
