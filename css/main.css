@@ -48,6 +48,10 @@ section {
     height: 60px;
 }
 
+#footer p {
+    margin-top: 10px;
+}
+
 #credit {
-    margin: 20px 0;
+    text-align: right;
 }
