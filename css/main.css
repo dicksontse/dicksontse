@@ -29,6 +29,10 @@ section {
     line-height: 25px;
 }
 
+.nav-header {
+    font-size: 12px;
+}
+
 .page-header {
     border-bottom: 1px solid #dddddd;
     margin: 30px 0 15px;
