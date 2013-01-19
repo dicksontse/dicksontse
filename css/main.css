@@ -11,6 +11,19 @@ section {
     margin-bottom: 50px;
 }
 
+.github {
+    color: #333333;
+    margin-top: 11px;
+}
+
+.github:hover {
+    text-decoration: none;
+}
+
+.icon-github {
+    transform: scale(1.8, 1.8);
+}
+
 #wrap {
     height: auto !important;
     margin: 0 auto -60px;
