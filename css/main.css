@@ -22,6 +22,8 @@ section {
 }
 
 .icon-github {
+    -webkit-transform: scale(1.8, 1.8);
+    -ms-transform: scale(1.8, 1.8);
     transform: scale(1.8, 1.8);
 }
 
